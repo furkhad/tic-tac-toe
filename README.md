@@ -15,7 +15,7 @@ Welcome to the Tic-Tac-Toe project! This simple Python-based game allows users t
    cd tic-tac-toe
 2.Run the Python script:   
          
-    python tic_tac_toe.py
+    python3 tic_tac_toe.py
 
 3.The game will display a 3x3 grid with numbered positions (1-9).
 
